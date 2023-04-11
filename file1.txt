@@ -1,1 +1,5 @@
-git rm --cached -r , to undo added files 
+git rm --cached -r  //to undo added files 
+
+git branch branchname // to create new branch
+git branch // to see list of branches
+git checkout branchname // to switch branchk
